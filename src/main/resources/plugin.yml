@@ -1,0 +1,9 @@
+name: MythicLevels
+version: '1.0'
+main: hu.mrbarneyy.mythiclevels.MythicLevels
+api-version: '1.18'
+softdepend: [ PlaceholderAPI ]
+authors: [ MrBarneyy ]
+commands:
+  mythiclevels:
+    aliases: [mlevels, levels]
